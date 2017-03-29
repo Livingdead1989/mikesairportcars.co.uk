@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" viewBox="0 0 512.3 241" enable-background="new 0 0 512.3 241" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  width="876.3" height="516.2" y="-478" x="-35" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<path fill="#231F20" d="M246.5,54.6c8,2.5,17.6,4.8,16.3,4.5l-3.9-16.8c0,0,6.6-1.9,8.7-1.6c4.8,0.7,11.8,6.1,11.8,6.1l17.7,12.1
+	l34.5-6.9l-17.3-11.4c0,0-84-32.8-84-34.1c0-1.7,10.5-2.9,13-3.6c2.5-0.7,8.4,0.8,8.4,0.8s150.6,34.5,153.3,34.8
+	c0.8,0.1,48.5-10.1,51.6-11.1c5-1.6,12.6-4.4,23.5-3.7c2.8,0.2,8.3,2.1,11,2.6c4.5,0.8,15.3,1.4,17.4,5.1c4.3,7.3-15.1,16.6-45.6,24
+	c-11.8,2.9-39.8,7.8-39.8,7.8l-20.1,40.6c0,0-5,10.5-7.4,13.3c-1.5,1.8-9.2,4.6-10.9,3.1c-2-1.8-2.7-10.1-2.7-10.1l-2.8-25.2
+	c0,0-6.5-3.4-9.3-4.9c-2.2-1.2-8.4-5.5-8.4-5.5s-26.3,2.3-34.4,3.2c-10.7,1.1-40.6,1.7-40.6,1.7s-0.6,8-1.9,10.1
+	c-0.5,0.8-2.1,1.7-3.2,2c-1.3,0.5-3.1,0.9-4.2,0.2c-4.3-2.5-16.4-13.6-16.4-13.6s-7.7-0.2-9.2-0.6c-1.8-0.5-1.1-0.9-0.7-3.7
+	c0.1-0.4,1.9-1.2,1.9-1.2L235.7,61c0,0-1-0.9-0.7-1.9C235.8,56.4,240.5,53.6,246.5,54.6"/>
+<g>
+	<g opacity="0.75"  a:adobe-blending-mode="multiply"  a:adobe-opacity-share="1">
+		
+			<text transform="matrix(1 0 0 1 3.9232 230.0697)" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10"  a:adobe-blending-mode="normal"  a:adobe-opacity-share="0" font-family="'Open Sans', sans-serif" font-size="29">Your Local Airport Transfer Specialist</text>
+	</g>
+	<g>
+		
+			<text transform="matrix(1 0 0 1 2.9232 229.0697)" fill="#EC8045" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" font-family="'Open Sans', sans-serif" font-size="29">Your Local Airport Transfer Specialist</text>
+	</g>
+</g>
+<g>
+	<g opacity="0.75"  a:adobe-blending-mode="multiply"  a:adobe-opacity-share="1">
+		<text transform="matrix(1.0744 0 0 1 4.9235 82)"  a:adobe-blending-mode="normal"  a:adobe-opacity-share="0"><tspan x="0" y="0" stroke="#000000" stroke-miterlimit="10" font-family="'Oswald', sans-serif" font-size="80">Mike’s </tspan><tspan x="0" y="96" stroke="#000000" stroke-miterlimit="10" font-family="'Oswald', sans-serif" font-size="80">Airport Cars</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1.0744 0 0 1 2.9235 80)"><tspan x="0" y="0" fill="#EC8045" stroke="#000000" stroke-miterlimit="10" font-family="'Oswald', sans-serif" font-size="80">Mike’s </tspan><tspan x="0" y="96" fill="#EC8045" stroke="#000000" stroke-miterlimit="10" font-family="'Oswald', sans-serif" font-size="80">Airport Cars</tspan></text>
+	</g>
+</g>
+</svg>
